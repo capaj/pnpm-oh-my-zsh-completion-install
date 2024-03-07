@@ -1,6 +1,6 @@
 {
   "name": "pnpm-oh-my-zsh-completion-install",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tiny script to make it easier to install shell completions for pnpm into oh-my-zsh",
   "bin": {
     "pnpm-shell-completion-install": "pnpm-shell-completion-install.ts"
