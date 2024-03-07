@@ -1,0 +1,24 @@
+{
+  "name": "pnpm-shell-completion-install",
+  "version": "0.0.1",
+  "description": "tiny script to make it easier to install shell completions for pnpm into oh-my-zsh",
+  "bin": {
+    "pnpm-shell-completion-install": "pnpm-shell-completion-install.ts"
+  },
+  "main": "pnpm-shell-completion-install.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "capajj@gmail.com",
+  "license": "MIT",
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.8"
+  }
+}
