@@ -16,7 +16,8 @@
     "bun": ">=1.0.0"
   },
   "dependencies": {
-    "adm-zip": "^0.5.10"
+    "adm-zip": "^0.5.10",
+    "tar": "^6.2.0"
   },
   "devDependencies": {
     "@types/bun": "^1.0.8"
